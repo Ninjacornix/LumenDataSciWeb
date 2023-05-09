@@ -1,0 +1,10 @@
+.UploadFile{
+    position: absolute;
+    z-index: 1;
+    top: 40vh;
+    width: 100%;
+    font-weight: bold;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+}

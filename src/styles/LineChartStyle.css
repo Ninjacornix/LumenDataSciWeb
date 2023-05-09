@@ -1,0 +1,7 @@
+.LineChartStyle{
+    position: absolute;
+    z-index: 1;
+    width: 40vw;
+    height: 8%;
+    margin-left: 20vw;
+}
